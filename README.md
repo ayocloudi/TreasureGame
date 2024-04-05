@@ -1,6 +1,10 @@
 # TreasureGame
 Using Python to create a treasure game to build my understanding of if and else statements
 
+
+![image](https://github.com/ayocloudi/TreasureGame/assets/126922387/e43da46f-f6d0-4a3f-a94c-e0bfd591cf65)
+
+
 This Python script is a text-based adventure game called "Treasure Island." The player makes choices at various points in the game, leading to different outcomes. Here's a breakdown of the game's flow:
 
 The game starts with a graphical introduction of the Treasure Island.
